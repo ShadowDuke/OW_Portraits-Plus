@@ -3,7 +3,7 @@
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
 # [Portraits+](https://github.com/ShadowDuke/OW_Portraits-Plus/wiki)
-Adds a total of 24 new portraits (13 male and 11 female) to the pool the game choosing portraits from. Some nations have been given the same portraits.
+**Adds a total of 24 new portraits (13 male and 11 female) to the pool the game choosing portraits from. Some nations have been given the same portraits.**
 
 ## Installation and use
 
