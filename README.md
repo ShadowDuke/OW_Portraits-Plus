@@ -37,7 +37,7 @@ You can still add them manually like before (github) but it would be certainly e
    
 ## Notes
 
-I decided to add **portraits++** as an extra mod because its using portraits fromreal people, whereas **portraits+** is using mainly pictures from pen&paper games, etc. So if you dont like either one of those you can choose between two different portrait versions.
+I decided to add **portraits++** as an extra mod because its using portraits fromreal people, whereas **portraits+** is using mainly pictures from pen&paper games, etc. So if you dont like either one of those you can choose between two different portrait versions or just use both of them.
    
 <br><br>
 **Mod compatibility with all my mods**
