@@ -1,6 +1,6 @@
 <Root>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -13,16 +13,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_021</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -35,16 +35,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_21_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_21_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_22</zType>
+		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_022</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -57,16 +57,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_22_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_22_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -79,16 +79,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ASSYRIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ASSYRIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -101,16 +101,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>BABYLONIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>BABYLONIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -123,16 +123,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_021</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -145,16 +145,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -167,16 +167,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_20_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_20_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_021</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -189,16 +189,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_21_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_21_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_22</zType>
+		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_MALE_022</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -211,16 +211,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_22_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>CARTHAGE_LEADER_MALE_22_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -233,16 +233,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>CARTHAGE_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>CARTHAGE_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_021</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -255,16 +255,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>CARTHAGE_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>CARTHAGE_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>CARTHAGE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -277,16 +277,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>GREECE_LEADER_MALE_02_ADULT</zValue>
+				<zValue>GREECE_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>GREECE_LEADER_MALE_20_ADULT</zValue>
+				<zValue>GREECE_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_021</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -299,16 +299,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>GREECE_LEADER_MALE_21_ADULT</zValue>
+				<zValue>GREECE_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>GREECE_LEADER_MALE_21_ADULT</zValue>
+				<zValue>GREECE_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -321,16 +321,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>GREECE_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>GREECE_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>GREECE_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>GREECE_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_021</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -343,16 +343,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>GREECE_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>GREECE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>GREECE_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>GREECE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -365,16 +365,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>PERSIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>PERSIA_LEADER_MALE_20_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_021</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -387,16 +387,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>PERSIA_LEADER_MALE_21_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>PERSIA_LEADER_MALE_21_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_22</zType>
+		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_022</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -409,16 +409,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>PERSIA_LEADER_MALE_22_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>PERSIA_LEADER_MALE_22_ADULT</zValue>
+				<zValue>PERSIA_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -431,16 +431,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>PERSIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>PERSIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>PERSIA_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>PERSIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_021</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -453,16 +453,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>PERSIA_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>PERSIA_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>PERSIA_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>PERSIA_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_020</zType>
 		<Gender>GENDER_MALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -475,16 +475,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ROME_LEADER_MALE_20_ADULT</zValue>
+				<zValue>ROME_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ROME_LEADER_MALE_20_SENIOR</zValue>
+				<zValue>ROME_LEADER_MALE_020_SENIOR</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_20</zType>
+		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_020</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -497,16 +497,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ROME_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ROME_LEADER_FEMALE_20_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_21</zType>
+		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_021</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -519,16 +519,16 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ROME_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ROME_LEADER_FEMALE_21_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_22</zType>
+		<zType>CHARACTER_PORTRAIT_ROMAN_LEADER_FEMALE_022</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<azAgeGroupSpriteNames>
 			<Pair>
@@ -541,11 +541,11 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-				<zValue>ROME_LEADER_FEMALE_22_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_022_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ROME_LEADER_FEMALE_22_ADULT</zValue>
+				<zValue>ROME_LEADER_FEMALE_022_ADULT</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
