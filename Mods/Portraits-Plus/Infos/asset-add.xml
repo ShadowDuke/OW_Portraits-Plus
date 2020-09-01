@@ -1,107 +1,303 @@
 <!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
 <Root>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/GREECE_LEADER_MALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/GREECE_LEADER_MALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/GREECE_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_021_YOUTH</zType>
+		<zAsset>portraits/GREECE_LEADER_MALE_021_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_021_ADULT</zType>
 		<zAsset>portraits/GREECE_LEADER_MALE_021_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_MALE_021_SENIOR</zType>
+		<zAsset>portraits/GREECE_LEADER_MALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/GREECE_LEADER_FEMALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/GREECE_LEADER_FEMALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/GREECE_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_021_YOUTH</zType>
+		<zAsset>portraits/GREECE_LEADER_FEMALE_021_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_021_ADULT</zType>
 		<zAsset>portraits/GREECE_LEADER_FEMALE_021_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GREECE_LEADER_FEMALE_021_SENIOR</zType>
+		<zAsset>portraits/GREECE_LEADER_FEMALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_MALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_021_YOUTH</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_021_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_021_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_MALE_021_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_021_SENIOR</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_022_YOUTH</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_022_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_022_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_MALE_022_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_MALE_022_SENIOR</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_MALE_022_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_020_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_021_YOUTH</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_021_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_021_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_021_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_021_SENIOR</zType>
+		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_021_SENIOR</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CARTHAGE_LEADER_FEMALE_017_ADULT</zType>
 		<zAsset>portraits/CARTHAGE_LEADER_FEMALE_017_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/PERSIA_LEADER_MALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_021_YOUTH</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_021_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_021_ADULT</zType>
 		<zAsset>portraits/PERSIA_LEADER_MALE_021_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_021_SENIOR</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_022_YOUTH</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_022_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_022_ADULT</zType>
 		<zAsset>portraits/PERSIA_LEADER_MALE_022_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_MALE_022_SENIOR</zType>
+		<zAsset>portraits/PERSIA_LEADER_MALE_022_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/PERSIA_LEADER_FEMALE_020_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/PERSIA_LEADER_FEMALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/PERSIA_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_021_YOUTH</zType>
+		<zAsset>portraits/PERSIA_LEADER_FEMALE_021_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_021_ADULT</zType>
 		<zAsset>portraits/PERSIA_LEADER_FEMALE_021_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PERSIA_LEADER_FEMALE_021_SENIOR</zType>
+		<zAsset>portraits/PERSIA_LEADER_FEMALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/ROME_LEADER_MALE_020_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/ROME_LEADER_MALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/ROME_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/ROME_LEADER_FEMALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_021_YOUTH</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_021_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_021_ADULT</zType>
 		<zAsset>portraits/ROME_LEADER_FEMALE_021_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_021_SENIOR</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_021_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_022_YOUTH</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_022_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_022_ADULT</zType>
 		<zAsset>portraits/ROME_LEADER_FEMALE_022_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ROME_LEADER_FEMALE_022_SENIOR</zType>
+		<zAsset>portraits/ROME_LEADER_FEMALE_022_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_MALE_020_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/ASSYRIA_LEADER_MALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_021_YOUTH</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_MALE_021_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_021_ADULT</zType>
 		<zAsset>portraits/ASSYRIA_LEADER_MALE_021_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_021_SENIOR</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_MALE_021_SENIOR</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_022_ADULT</zType>
 		<zAsset>portraits/ASSYRIA_LEADER_MALE_022_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_022_SENIOR</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_MALE_022_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_FEMALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/ASSYRIA_LEADER_FEMALE_020_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/ASSYRIA_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_MALE_020_YOUTH</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_MALE_020_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_MALE_020_ADULT</zType>
 		<zAsset>portraits/BABYLONIA_LEADER_MALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_MALE_020_SENIOR</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_MALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_020_YOUTH</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_020_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_020_ADULT</zType>
 		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_020_ADULT</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_020_SENIOR</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_020_SENIOR</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_021_YOUTH</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_021_YOUTH</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_021_ADULT</zType>
 		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_021_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_021_SENIOR</zType>
+		<zAsset>portraits/BABYLONIA_LEADER_FEMALE_021_SENIOR</zAsset>
 	</Entry>
 </Root>
