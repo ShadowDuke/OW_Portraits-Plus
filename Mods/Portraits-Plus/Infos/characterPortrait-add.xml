@@ -1,3 +1,4 @@
+<!-- Portraits+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_020</zType>
@@ -9,6 +10,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>ASSYRIA_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>ASSYRIA_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -34,6 +39,10 @@
 				<zValue>ASSYRIA_LEADER_MALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>ASSYRIA_LEADER_MALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>ASSYRIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
@@ -53,6 +62,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>GENERIC_MALE_03_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>GENERIC_MALE_03_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -78,6 +91,10 @@
 				<zValue>ASSYRIA_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>ASSYRIA_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>ASSYRIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
@@ -97,6 +114,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>BABYLONIA_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>BABYLONIA_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -122,6 +143,10 @@
 				<zValue>BABYLONIA_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>BABYLONIA_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>BABYLONIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
@@ -141,6 +166,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>BABYLONIA_LEADER_FEMALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>BABYLONIA_LEADER_FEMALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -166,6 +195,10 @@
 				<zValue>CARTHAGE_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>CARTHAGE_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>CARTHAGE_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
@@ -185,6 +218,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>CARTHAGE_LEADER_MALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>CARTHAGE_LEADER_MALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -210,6 +247,10 @@
 				<zValue>CARTHAGE_LEADER_MALE_022_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>CARTHAGE_LEADER_MALE_022_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>CARTHAGE_LEADER_MALE_022_ADULT</zValue>
 			</Pair>
@@ -229,6 +270,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>CARTHAGE_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>CARTHAGE_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -254,6 +299,10 @@
 				<zValue>CARTHAGE_LEADER_FEMALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>CARTHAGE_LEADER_FEMALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>CARTHAGE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
@@ -273,6 +322,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>GREECE_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>GREECE_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -298,6 +351,10 @@
 				<zValue>GREECE_LEADER_MALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>GREECE_LEADER_MALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>GREECE_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
@@ -317,6 +374,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>GREECE_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>GREECE_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -342,6 +403,10 @@
 				<zValue>GREECE_LEADER_FEMALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>GREECE_LEADER_FEMALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>GREECE_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
@@ -361,6 +426,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>PERSIA_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>PERSIA_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -386,6 +455,10 @@
 				<zValue>PERSIA_LEADER_MALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>PERSIA_LEADER_MALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>PERSIA_LEADER_MALE_021_ADULT</zValue>
 			</Pair>
@@ -405,6 +478,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>PERSIA_LEADER_MALE_022_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>PERSIA_LEADER_MALE_022_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -430,6 +507,10 @@
 				<zValue>PERSIA_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>PERSIA_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>PERSIA_LEADER_FEMALE_020_ADULT</zValue>
 			</Pair>
@@ -449,6 +530,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>PERSIA_LEADER_FEMALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>PERSIA_LEADER_FEMALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -474,6 +559,10 @@
 				<zValue>ROME_LEADER_MALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>ROME_LEADER_MALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>ROME_LEADER_MALE_020_ADULT</zValue>
 			</Pair>
@@ -493,6 +582,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>ROME_LEADER_FEMALE_020_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>ROME_LEADER_FEMALE_020_YOUTH</zValue>
 			</Pair>
 			<Pair>
@@ -518,6 +611,10 @@
 				<zValue>ROME_LEADER_FEMALE_021_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+				<zValue>ROME_LEADER_FEMALE_021_YOUTH</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>ROME_LEADER_FEMALE_021_ADULT</zValue>
 			</Pair>
@@ -537,6 +634,10 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+				<zValue>ROME_LEADER_FEMALE_022_YOUTH</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
 				<zValue>ROME_LEADER_FEMALE_022_YOUTH</zValue>
 			</Pair>
 			<Pair>
